@@ -1,0 +1,43 @@
+:root {
+    background-color: #000000;
+    font-size: 62.5%;
+  }
+            h1{
+            color: rgb(255, 255, 255);
+            font-family: Modric;
+            }    
+            h2{
+             color: rgb(255, 255, 255);
+             font-family: Modric;
+            }
+            h3{
+             color: rgb(255, 255, 255);
+             font-family: Modric
+            }
+            a.btn {
+                padding: 1rem;
+                margin: 1rem;
+                border-radius: 1rem;
+                border: none;
+                background-color: #6d0686;
+                box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+                color: #fff;
+                text-transform: uppercase;
+                width: 90rem;
+                height: 45rem;
+                transition: all 300ms ease-out;
+               }
+               button {
+                padding: 1rem;
+                margin: 1rem;
+                border-radius: 1rem;
+                border: none;
+                background-color: #6d0686;
+                box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+                color: #fff;
+                text-transform: uppercase;
+                width: 30rem;
+                height: 15rem;
+                transition: all 300ms ease-out;
+               }
+
